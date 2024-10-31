@@ -1,0 +1,48 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nice Search Slug\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-ads-posting\n"
+"POT-Creation-Date: 2013-12-21 18:58+0700\n"
+"PO-Revision-Date: 2013-12-21 19:01+0700\n"
+"Last-Translator: \n"
+"Language-Team: RK <admin@r3m1ck.us>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../plus-to-minus.php:67
+msgid "Nice Search Setting Page!"
+msgstr "Halaman Pengaturan Nice Search"
+
+#: ../plus-to-minus.php:69
+msgid "Put your search slug here"
+msgstr "Letakan slug anda disini"
+
+#: ../plus-to-minus.php:76
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: ../plus-to-minus.php:78
+msgid "How to use ?"
+msgstr "Cara Penggunaan"
+
+#: ../plus-to-minus.php:79
+msgid ""
+"<p><cite>Input the slug and when your search page got 404 it will redirect "
+"into your customize slug.</cite></p>"
+msgstr ""
+"<p><cite>Masukan slug kustom anda, hasil akan terlihat saat halaman "
+"pencarian mendapat pesan 404 maka slug akan berganti menjadi slug kustom "
+"anda.</cite></p>"
+
+#: ../plus-to-minus.php:80
+msgid "Contact me"
+msgstr "Hubungi saya"

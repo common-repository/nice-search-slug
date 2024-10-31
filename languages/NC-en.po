@@ -1,0 +1,47 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nice Search Slug\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-ads-posting\n"
+"POT-Creation-Date: 2013-12-21 18:55+0700\n"
+"PO-Revision-Date: 2013-12-21 18:56+0700\n"
+"Last-Translator: \n"
+"Language-Team: RK <admin@r3m1ck.us>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../plus-to-minus.php:67
+msgid "Nice Search Setting Page!"
+msgstr "Nice Search Setting Page!"
+
+#: ../plus-to-minus.php:69
+msgid "Put your search slug here"
+msgstr "Put your search slug here"
+
+#: ../plus-to-minus.php:76
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../plus-to-minus.php:78
+msgid "How to use ?"
+msgstr "How to use ?"
+
+#: ../plus-to-minus.php:79
+msgid ""
+"<p><cite>Input the slug and when your search page got 404 it will redirect "
+"into your customize slug.</cite></p>"
+msgstr ""
+"<p><cite>Input the slug and when your search page got 404 it will redirect "
+"into your customize slug.</cite></p>"
+
+#: ../plus-to-minus.php:80
+msgid "Contact me"
+msgstr "Contact me"
